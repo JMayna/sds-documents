@@ -1,22 +1,20 @@
 {
   "Glass": {
-    "Glass Sheet 1": "Glass_SDS_Sample.pdf",
-    "Glass Sheet 2": "Glass_SDS_Sample.pdf",
-    "Glass Sheet 3": "Glass_SDS_Sample.pdf"
+    "Drill Lubricant": "Glass Drill lubricant.pdf"
   },
   "Electrical": {
     "Wire Glide": "Electrical Wire Gluide.pdf"
   },
   "Mechanical": {
-    "Mechanical Sheet 1": "Mechanical_SDS_Sample.pdf"
+    "Duct Seal": "HVAC Duct Seal.pdf"
   },
   "Plumbing": {
-    "Plumbing Sheet 1": "Plumbing_SDS_Sample.pdf"
+    "Pipe Cement": "Plumbing pipe cement.pdf"
   },
   "General": {
-    "Marathon Petroleum Gasoline (All Grades)": "Marathon_Petroleum_Gasoline_All Grades.pdf"
+    "WD-40": "General WD-40.pdf"
   },
   "Sitework": {
-    "Sitework Sheet 1": "Sitework_SDS_Sample.pdf"
+    "Gasoline": "SiteWork Gasoline.pdf"
   }
 }
