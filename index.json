@@ -1,8 +1,8 @@
 {
   "Glass": {
-    "Glass Sheet 1": "Glass_Sheet1.pdf",
-    "Glass Sheet 2": "Glass_Sheet2.pdf",
-    "Glass Sheet 3": "Glass_Sheet3.pdf"
+    "Glass Sheet 1": "Glass_SDS_Sample",
+    "Glass Sheet 2": "Glass_SDS_Sample",
+    "Glass Sheet 3": "Glass_SDS_Sample"
   },
   "Electrical": {
     "Electrical Sheet 1": "Electrical_SDS_Sample.pdf"
